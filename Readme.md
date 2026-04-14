@@ -123,3 +123,10 @@ Al mismo tiempo, es también una forma de reconocer y poner en valor el trabajo 
 Este proyecto es una adaptación técnica para preservar y facilitar el acceso al juego.
 
 Todos los derechos pertenecen a sus autores originales.
+
+![Logo](screenshots/AbadiaLogo.PNG)
+![Niebla](screenshots/AbadiaNiebla.PNG)
+![Iluminación](screenshots/AbadiaNoche.PNG)
+![Mapa](screenshots/AbadiaMap.PNG)
+![Lampara](screenshots/AbadiaLaberinto.PNG)
+
