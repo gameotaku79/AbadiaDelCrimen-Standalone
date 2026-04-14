@@ -82,16 +82,31 @@ Este proyecto elimina la dependencia de applets y navegadores antiguos, convirti
 
 ---
 
-## 🧠 Sobre esta versión
+🧠 Sobre esta versión
 
-Este juego originalmente se distribuía como applet de Java, lo que hoy en día lo hace incompatible con navegadores modernos.
+Este proyecto nace de una motivación muy sencilla: esta versión en Java de La Abadía del Crimen, desarrollada por Manuel Pazos, es probablemente la mejor versión del juego que existe.
 
-Esta versión:
+Introduce una serie de mejoras que hacen la experiencia mucho más accesible y disfrutable respecto al original:
 
-* elimina la necesidad de navegador
-* evita configuraciones inseguras de Java
-* permite ejecución directa como aplicación
-* mejora la experiencia con controles modernos
+Posibilidad de guardar y cargar partida
+Mapa completo de la abadía accesible en cualquier momento
+Sistema de cámaras para observar a distintos personajes (Abad, Severino, Berengario, etc.)
+Indicadores adicionales (aceite de la lámpara, estado del Abad, etc.)
+Efectos gráficos como iluminación, sombras y niebla
+Opciones configurables desde el propio juego
+
+El problema es que esta versión estaba pensada para ejecutarse como applet de Java, lo que hoy en día la hace incompatible con navegadores modernos. En la práctica, esto la convertía en una especie de lost media.
+
+La motivación de este proyecto ha sido precisamente evitar eso: poder jugarla cómodamente en un PC moderno, dejarla lista para su uso sin complicaciones y compartirla para que no se pierda.
+
+Para ello, esta adaptación:
+
+elimina la necesidad de navegador
+evita configuraciones inseguras de Java
+permite ejecución directa como aplicación
+mejora la experiencia con controles modernos (incluyendo mando)
+
+Al mismo tiempo, es también una forma de reconocer y poner en valor el trabajo de Manuel Pazos, así como el de los creadores originales del juego.
 
 ---
 
